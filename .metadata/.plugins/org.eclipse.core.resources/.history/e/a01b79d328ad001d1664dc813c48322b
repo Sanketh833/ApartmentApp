@@ -1,0 +1,20 @@
+package com.ctl.app.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.ctl.app.entity.RoomList;
+import com.ctl.app.repository.RoomRepo;
+
+public class RoomService {
+
+	@Autowired
+	RoomRepo roomRepo;
+
+	public RoomList createRoomDetails(RoomList roomList) {
+
+		return roomRepo.save(roomList);
+		
+
+	}
+
+}

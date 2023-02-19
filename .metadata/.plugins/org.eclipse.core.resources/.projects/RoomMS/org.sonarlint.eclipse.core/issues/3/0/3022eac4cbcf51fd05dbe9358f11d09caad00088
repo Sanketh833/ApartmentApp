@@ -1,0 +1,14 @@
+
+i
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÜØàğå0HùRINFOZ
+CODE_SMELL
+b
+java:S1172"/Remove this unused method parameter "roomList".(Î“‚å8ÜØàğå0H÷RMAJORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¿óÊíå0HÁRINFOZ
+CODE_SMELL
+|
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ò³Ÿà8Å€Äñå0H—RMAJORZBUG
+
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(öø›¤øÿÿÿÿ8Å€Äñå0H˜RMAJORZBUG

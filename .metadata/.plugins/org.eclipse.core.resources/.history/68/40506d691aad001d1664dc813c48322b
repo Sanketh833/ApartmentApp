@@ -1,0 +1,5 @@
+package com.ctl.app.dto;
+
+public class AdminDTO {
+
+}
